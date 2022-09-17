@@ -1,6 +1,6 @@
 # License-Plate-Recognition :police_officer:	
 Script that can get the license number from multiple images using OPENCV and EASYOCR.
-The script takes the image, applies many different effects to isole the license plate and print it out. 
+The script takes the image, applies many different effects to isolate the license plate and print it out. 
 
 <p>In the future I might combine hardware with the project where the webcam would take pictures of cars passing down the street with the script printing out the license numbers. </p>
 
